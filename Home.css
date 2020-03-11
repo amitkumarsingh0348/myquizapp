@@ -1,0 +1,29 @@
+.container {
+  width: 100%;
+  max-height: 100%;
+}
+.header_section {
+  background-color: aquamarine;
+}
+.heading_container {
+  display: flex;
+  justify-content: center;
+}
+.title {
+  padding: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: darkolivegreen;
+}
+
+.body_section {
+  border-radius: 1px solid blue;
+}
+.body_container {
+  height: 80%;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  box-sizing: border-box;
+  left: 0px;
+  right: 0px;
+}
